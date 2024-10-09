@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url("pet1.jpg");
+    height: 400px;
+    background-size:contain;
+    background-repeat:no-repeat;
+    position: relative;
+}
+h1{
+   position: absolute;
+    top: 20%;
+    left: 60%;
+    font-size: 7em;
+}
+section{
+
+}
